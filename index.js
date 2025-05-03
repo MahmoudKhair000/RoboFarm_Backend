@@ -28,4 +28,7 @@ mongoose
 const testRoutes = require("./routes/test");
 app.use("/apitest", testRoutes);
 
-app.listen(3000, () => console.log("Connected to Port 3000 !!!"));
+// app.listen(4000, () => console.log("connected to port 4000"));
+
+// export the app for vercel serverless functions
+module.exports = app;
