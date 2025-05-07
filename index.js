@@ -27,6 +27,7 @@ mongoose
 
 const testRoutes = require("./routes/test");
 app.use("/apitest", testRoutes);
+
 const scanRoutes = require("./routes/scans");
 app.use("/scans", scanRoutes);
 
@@ -36,7 +37,7 @@ const fieldScans = require("./fieldScanTest");
 // console.log("fieldScans:", JSON.stringify(fieldScans));
 
 app.get("/api/test", (req, res) => {
-  res.json(fieldScans);
+  res.send(fieldScans);
 });
 
 // export the app for vercel serverless functions

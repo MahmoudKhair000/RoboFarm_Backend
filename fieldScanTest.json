@@ -1,0 +1,174 @@
+[
+  {
+    "_id": "681b2e503e66fa5a16d1ed3a",
+    "scanDay": "2025-05-07",
+    "scanHour": "09:56:30.064Z",
+    "lines": [
+      {
+        "NoLine": 1,
+        "rangeTemp": [
+          10,
+          12,
+          11,
+          10
+        ],
+        "rangeHumi": [
+          10,
+          12,
+          11,
+          10
+        ],
+        "rangeMois": [
+          10,
+          12,
+          11,
+          10
+        ],
+        "trees": [
+          {
+            "NoTree": 1,
+            "location": {
+              "n": 24.0052156,
+              "e": 27.8055424
+            },
+            "status": "healthy"
+          },
+          {
+            "NoTree": 2,
+            "location": {
+              "n": 24.0052156,
+              "e": 27.8055424
+            },
+            "status": "healthy"
+          }
+        ]
+      },
+      {
+        "NoLine": 2,
+        "rangeTemp": [
+          10,
+          12,
+          11,
+          10
+        ],
+        "rangeHumi": [
+          10,
+          12,
+          11,
+          10
+        ],
+        "rangeMois": [
+          10,
+          12,
+          11,
+          10
+        ],
+        "trees": [
+          {
+            "NoTree": 1,
+            "location": {
+              "n": 24.0052156,
+              "e": 27.8055424
+            },
+            "status": "healthy"
+          },
+          {
+            "NoTree": 2,
+            "location": {
+              "n": 24.0052156,
+              "e": 27.8055424
+            },
+            "status": "infected"
+          }
+        ]
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "681b2e7683a905db06844687",
+    "scanDay": "2025-05-07",
+    "scanHour": "09:57:08.014Z",
+    "lines": [
+      {
+        "NoLine": 1,
+        "rangeTemp": [
+          10,
+          12,
+          11,
+          10
+        ],
+        "rangeHumi": [
+          10,
+          12,
+          11,
+          10
+        ],
+        "rangeMois": [
+          10,
+          12,
+          11,
+          10
+        ],
+        "trees": [
+          {
+            "NoTree": 1,
+            "location": {
+              "n": 24.0052156,
+              "e": 27.8055424
+            },
+            "status": "healthy"
+          },
+          {
+            "NoTree": 2,
+            "location": {
+              "n": 24.0052156,
+              "e": 27.8055424
+            },
+            "status": "healthy"
+          }
+        ]
+      },
+      {
+        "NoLine": 2,
+        "rangeTemp": [
+          10,
+          12,
+          11,
+          10
+        ],
+        "rangeHumi": [
+          10,
+          12,
+          11,
+          10
+        ],
+        "rangeMois": [
+          10,
+          12,
+          11,
+          10
+        ],
+        "trees": [
+          {
+            "NoTree": 1,
+            "location": {
+              "n": 24.0052156,
+              "e": 27.8055424
+            },
+            "status": "healthy"
+          },
+          {
+            "NoTree": 2,
+            "location": {
+              "n": 24.0052156,
+              "e": 27.8055424
+            },
+            "status": "infected"
+          }
+        ]
+      }
+    ],
+    "__v": 0
+  }
+]
